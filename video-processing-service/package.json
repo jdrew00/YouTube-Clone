@@ -7,7 +7,9 @@
     "build": "tsc",
     "serve": "node dist/index.js"
   },
-  "keywords": ["npm"],
+  "keywords": [
+    "npm"
+  ],
   "author": "",
   "license": "ISC",
   "description": "",
